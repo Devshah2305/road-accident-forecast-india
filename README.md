@@ -66,3 +66,23 @@ pip install pandas numpy matplotlib scikit-learn
 
 # Step 2: Run the script
 python road_accident_forecast.py
+
+---
+
+## 📌 Future Enhancements
+
+- Add state-wise and city-wise accident prediction
+- Integrate vehicle type and accident severity data
+- Build an interactive web dashboard with Python (e.g., Streamlit)
+- Automate real-time data updates using APIs
+- Compare forecast models: Linear, Polynomial, ARIMA, etc.
+
+---
+
+## 🙋‍♂️ Author
+
+**Dev Shah**  
+GitHub: [Devshah2305](https://github.com/Devshah2305)  
+Email: shahdev2305@gmail.com 
+LinkedIn: [linkedin.com/in/dev-shah-6999b4352](https://www.linkedin.com/in/dev-shah-6999b4352) 
+
