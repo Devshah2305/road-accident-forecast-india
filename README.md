@@ -81,6 +81,13 @@ python road_accident_forecast.py
 ### 📌 Page 3 – Forecast (2020–2025 using Python)
 ![Page 3 Forecast](./page3_forecast.png)
 
+--
+
+
+🔽 [Click here to download the Power BI file]
+(./Road_Accident_Report.pbix)
+
+--
 
 ## 📌 Future Enhancements
 
