@@ -69,6 +69,18 @@ python road_accident_forecast.py
 
 ---
 
+## 📷 Power BI Dashboard Preview
+
+### 📌 Page 1 – Road Accident Overview (2016–2019)
+![Page 1](page1_overview.png)
+
+### 📌 Page 2 – State-wise & Map Analysis
+![Page 2](page2_map_analysis.png)
+
+### 📌 Page 3 – Forecast (2020–2025 using Python)
+![Page 3](page3_forecast.png)
+
+
 ## 📌 Future Enhancements
 
 - Add state-wise and city-wise accident prediction
