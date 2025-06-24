@@ -72,7 +72,7 @@ python road_accident_forecast.py
 ## 📷 Power BI Dashboard Preview
 
 ### 📌 Page 1 – Road Accident Overview (2016–2019)
-![Page 1 Overview]((https://github.com/user-attachments/assets/c6a87692-5d17-4ae9-9c2a-e861aaac972b)
+![Page 1 Overview](https://github.com/user-attachments/assets/c6a87692-5d17-4ae9-9c2a-e861aaac972b)
 
 
 ### 📌 Page 2 – State-wise & Map Analysis
